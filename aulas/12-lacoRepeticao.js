@@ -38,3 +38,34 @@ for (let i = 0; i < numeros.length; i++) {
   soma += numeros[i];
 }
 console.log(soma);
+
+// Laço de repetição - While / Do While
+// ------------------------------------
+// While testa a condição antes de entrar no laço de repetição
+// Se a condição for inicialmente falsa, o laço não é executado nenhuma vez.
+var x = 11;
+
+while (x > 10) {
+  console.log("Entrei no laço While...");
+  x = 0;
+}
+console.log("Terminei!");
+
+// Somar enquanto (While) menor que 10
+var somar = 0; // variável para armazenar a soma dos números
+var num = 0; // variável para aumentar de 1 em 1
+
+while (num < 10) {
+  somar += num;  // somo o número atual com o que já existe na variável
+  num++;        // variável de controle para o while funcionar
+  console.log('Somando...',somar);
+  console.log('Numero...',num);
+}
+
+for (let i = 0; i < 10; i++) {
+}
+
+var i = 0
+while (i < 10) {
+  i++
+}
