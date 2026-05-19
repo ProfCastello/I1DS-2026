@@ -1,6 +1,6 @@
 # PetShop Amigo Fiel
 
-Um projeto web moderno e responsivo para o PetShop Amigo Fiel, desenvolvido com foco em boas práticas de desenvolvimento front-end, escalabilidade e experiência do usuário. Ideal para quem busca um ponto de partida sólido para projetos web institucionais.
+Um projeto web moderno e responsivo para PetShop Amigo Fiel, desenvolvido com foco em boas práticas de desenvolvimento front-end, escalabilidade e experiência do usuário. Ideal para quem busca um ponto de partida sólido para projetos web institucionais.
 
 ---
 
@@ -42,12 +42,12 @@ Projeto-Petshop/
 │   ├── pets.png
 │   ├── tosa.png
 │   └── veterinario.png
-└── ATIVIDADE.md
+└── README.md
 ```
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - HTML5 semântico
 - CSS3 com variáveis e responsividade
@@ -58,7 +58,7 @@ Projeto-Petshop/
 
 ## 📌 Melhorias Sugeridas
 
-Veja o arquivo [ATIVIDADE.md](./ATIVIDADE.md) para desafios de evolução do projeto, incluindo:
+Abaixo estão as melhorias para evolução do projeto:
 
 - Links para redes sociais e WhatsApp
 - Seção de produtos
@@ -68,7 +68,7 @@ Veja o arquivo [ATIVIDADE.md](./ATIVIDADE.md) para desafios de evolução do pro
 
 ---
 
-## 💡 Diferenciais para Fullstack
+## 💡 Diferenciais para FullStack
 
 - Estrutura de pastas pronta para expansão (ex: backend, API, integração com banco de dados)
 - Código limpo, comentado e fácil de manter
@@ -77,7 +77,7 @@ Veja o arquivo [ATIVIDADE.md](./ATIVIDADE.md) para desafios de evolução do pro
 
 ---
 
-## 👨‍💻 Sobre o Projeto
+## 👨🏻‍💻 Sobre o Projeto
 
 Este projeto foi desenvolvido como base para atividades práticas e desafios de aprimoramento em desenvolvimento web. Sinta-se à vontade para evoluir, personalizar e utilizar como portfólio!
 
